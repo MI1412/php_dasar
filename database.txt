@@ -1,0 +1,15 @@
+database : phpdasar
+tabel : mahasiswa
+
+struktur
+contoh id int(3) <-- memberi ukuran 3digit, jika kalau kosong akan otomatis mengisi sesuai kapasitasnya
+
+tipe data string ada 2 yaitu char, var_char
+
+disini kita buat 6 field / kolom
+id int (primary_key) atribut : auto_increment
+nama var_char(100)
+nrp varchar(10)
+email varchar(100)
+jurusan varchar(100)
+gambar varchar(100)

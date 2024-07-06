@@ -1,0 +1,23 @@
+[
+        {
+        "nama":"muhammad imron",
+        "umur": 18,
+        "gender":true,
+        "hobby":["coding","ngegame"],
+        "alamat":{
+            "kota":"surabaya",
+            "negara":"indonesia"
+        }
+    },
+    {
+        "nama":"tes 123",
+        "umur": 18,
+        "gender":true,
+        "hobby":["coding","ngegame"],
+        "deskripsi":"ini json sederhana",
+        "alamat":{
+            "kota":"surabaya",
+            "negara":"indonesia"
+        }
+    }
+]    
